@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "liblvc-bug-repro", "WpfApp1\liblvc-bug-repro.csproj", "{A4FD7A9B-68F3-4A00-A902-4858ECD33C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4FD7A9B-68F3-4A00-A902-4858ECD33C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4FD7A9B-68F3-4A00-A902-4858ECD33C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4FD7A9B-68F3-4A00-A902-4858ECD33C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4FD7A9B-68F3-4A00-A902-4858ECD33C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFE9D05F-089F-4D6B-8913-2A0FE5DA19B8}
+	EndGlobalSection
+EndGlobal
